@@ -3,4 +3,4 @@
 
 
 
-![Screenshot](lifeExp.png)
+![lifeExp](lifeExp.png)
