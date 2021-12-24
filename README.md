@@ -3,4 +3,3 @@
 
 
 
-![lifeExp](lifeExp.png)
